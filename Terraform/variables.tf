@@ -20,8 +20,8 @@ variable "ami" {
   default = "ami-0083d3f8b2a6c7a81"
 }
 variable "key-name" {
-  default "root-key"
+  default = "root-key"
 }
 variable "iam-role" {
-  default "
+  default = ""
 }
