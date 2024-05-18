@@ -18,7 +18,7 @@ terraform {
 
     bucket = "babaobas3-051524"
 
-    key = "state/terraform.tfstate"
+    key = "prt_key/terraform.tfstate"
 
     region = "ca-central-1"
 
