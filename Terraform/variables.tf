@@ -23,5 +23,5 @@ variable "key-name" {
   default = "root-key"
 }
 variable "iam-role" {
-  default = ""
+  default = "dev"
 }
